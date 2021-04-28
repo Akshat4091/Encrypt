@@ -1,0 +1,5 @@
+2020/10/23-12:50:05.953 31c0 Reusing MANIFEST C:\Users\akshat.jain\Provar\Bug\.chromeProfiles\profile1\Default\IndexedDB\https_ap17.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/23-12:50:10.035 4978 Level-0 table #5: started
+2020/10/23-12:50:10.119 4978 Level-0 table #5: 126343 bytes OK
+2020/10/23-12:50:10.191 4978 Delete type=0 #3
+2020/10/23-12:50:10.191 4978 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

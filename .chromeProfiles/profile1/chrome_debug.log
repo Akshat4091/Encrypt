@@ -1,0 +1,25 @@
+[6732:6592:1023/124946.456:WARNING:chrome_command_line_pref_store.cc(118)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[6732:6592:1023/124946.461:WARNING:chrome_command_line_pref_store.cc(118)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[6732:6592:1023/124946.522:WARNING:chrome_command_line_pref_store.cc(118)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[6732:6592:1023/124952.110:INFO:CONSOLE(1692)] "INIT    === Start of processExistingTabs.  refresh: false", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1692)
+[6732:6592:1023/124952.110:INFO:CONSOLE(1692)] "INIT    === Start of processExistingTabs.  refresh: true", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1692)
+[6732:6592:1023/124952.116:INFO:CONSOLE(1694)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1694)
+[6732:6592:1023/124952.116:INFO:CONSOLE(1700)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 2, url: file:///C:/Users/AKSHAT~1.JAI/AppData/Local/Temp/ProvarChromeIde5009589300510430090/provarPort=53741&idePort=53760&sessionId=2&subSessionId=2&connectionName=Akshat:conn&devMode=false&showEnhancedXpathEditor=true&dmwAttempt=0&dmwCloseTimeInSec=2000&useTargetXpaths=false.html, existingTab: undefined", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1700)
+[6732:6592:1023/124952.116:INFO:CONSOLE(1708)] "INIT    === Created connectionDetails for new tab", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1708)
+[6732:6592:1023/124952.117:INFO:CONSOLE(1712)] "INIT    === Set focused tab.  focusedTabId: 2", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1712)
+[6732:6592:1023/124952.117:INFO:CONSOLE(1694)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1694)
+[6732:6592:1023/124952.117:INFO:CONSOLE(1700)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 2, url: file:///C:/Users/AKSHAT~1.JAI/AppData/Local/Temp/ProvarChromeIde5009589300510430090/provarPort=53741&idePort=53760&sessionId=2&subSessionId=2&connectionName=Akshat:conn&devMode=false&showEnhancedXpathEditor=true&dmwAttempt=0&dmwCloseTimeInSec=2000&useTargetXpaths=false.html, existingTab: [object Object]", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1700)
+[6732:6592:1023/124952.217:INFO:CONSOLE(1207)] "Sending request to Provar to get strategies", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1207)
+[6732:6592:1023/124952.239:INFO:CONSOLE(2271)] "dispatchMessage - resolving response:  [object Object]", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (2271)
+[6732:6592:1023/124957.109:INFO:CONSOLE(1692)] "INIT    === Start of processExistingTabs.  refresh: true", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1692)
+[6732:6592:1023/124957.110:INFO:CONSOLE(1694)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1694)
+[6732:6592:1023/124957.110:INFO:CONSOLE(1700)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 2, url: about:blank, existingTab: [object Object]", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (1700)
+[6732:6592:1023/125011.922:INFO:CONSOLE(37)] "[object Object]", source: https://ap17.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (37)
+[6732:6592:1023/125905.766:INFO:CONSOLE(382)] "WebSocket connection to 'ws://localhost:53760/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js (382)
+[6732:6592:1023/125915.577:INFO:CONSOLE(0)] "Error handling response: TypeError: Cannot read property 'sendMessage' of null
+    at IdeSocketClient.send (chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js:603:27)
+    at chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js:1546:38", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/_generated_background_page.html (0)
+[6732:6592:1023/125915.784:INFO:CONSOLE(0)] "Error handling response: TypeError: Cannot read property 'sendMessage' of null
+    at IdeSocketClient.send (chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js:603:27)
+    at chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/BS.js:1546:38", source: chrome-extension://bchpedhbpajijmjchdmoafhoggdllpmn/_generated_background_page.html (0)
+[6732:6592:1023/125917.516:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

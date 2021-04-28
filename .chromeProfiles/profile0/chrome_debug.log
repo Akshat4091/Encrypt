@@ -1,0 +1,65 @@
+[3528:3016:0113/182319.081:WARNING:chrome_command_line_pref_store.cc(118)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[3528:3016:0113/182319.116:WARNING:chrome_command_line_pref_store.cc(118)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[3528:3016:0113/182319.216:WARNING:chrome_command_line_pref_store.cc(118)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[3528:3016:0113/182325.971:INFO:CONSOLE(1700)] "INIT    === Start of processExistingTabs.  refresh: false", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1700)
+[3528:3016:0113/182325.972:INFO:CONSOLE(1700)] "INIT    === Start of processExistingTabs.  refresh: true", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1700)
+[3528:3016:0113/182325.981:INFO:CONSOLE(1702)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1702)
+[3528:3016:0113/182325.981:INFO:CONSOLE(1708)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 2, url: file:///C:/Users/AKSHAT~1.JAI/AppData/Local/Temp/ProvarChromeIde5142320875298990433/provarPort=54674&idePort=54690&sessionId=1&subSessionId=2&connectionName=Akshat:conn&devMode=false&showEnhancedXpathEditor=true&dmwAttempt=0&dmwCloseTimeInSec=2000&useTargetXpaths=false.html, existingTab: undefined", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1708)
+[3528:3016:0113/182325.981:INFO:CONSOLE(1716)] "INIT    === Created connectionDetails for new tab", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1716)
+[3528:3016:0113/182325.981:INFO:CONSOLE(1720)] "INIT    === Set focused tab.  focusedTabId: 2", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1720)
+[3528:3016:0113/182325.982:INFO:CONSOLE(1702)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1702)
+[3528:3016:0113/182325.982:INFO:CONSOLE(1708)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 2, url: file:///C:/Users/AKSHAT~1.JAI/AppData/Local/Temp/ProvarChromeIde5142320875298990433/provarPort=54674&idePort=54690&sessionId=1&subSessionId=2&connectionName=Akshat:conn&devMode=false&showEnhancedXpathEditor=true&dmwAttempt=0&dmwCloseTimeInSec=2000&useTargetXpaths=false.html, existingTab: [object Object]", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1708)
+[3528:3016:0113/182325.985:INFO:CONSOLE(1208)] "Sending request to Provar to get strategies", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1208)
+[3528:3016:0113/182326.156:INFO:CONSOLE(2300)] "dispatchMessage - resolving response:  [object Object]", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (2300)
+[3528:3016:0113/182330.969:INFO:CONSOLE(1700)] "INIT    === Start of processExistingTabs.  refresh: true", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1700)
+[3528:3016:0113/182330.970:INFO:CONSOLE(1702)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1702)
+[3528:3016:0113/182330.970:INFO:CONSOLE(1708)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 2, url: about:blank, existingTab: [object Object]", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (1708)
+[3528:3016:0113/182350.457:INFO:CONSOLE(37)] "[object Object]", source: https://ap17.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (37)
+[3528:3016:0113/182357.138:INFO:CONSOLE(0)] "Error in event handler: Error: Failed to execute 'send' on 'WebSocket': Still in CONNECTING state.
+    at ChromeWebSocketClient.sendMessage (chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:403:24)
+    at IdeSocketClient.send (chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:604:27)
+    at IdeSocketClient.sendEventMethod (chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:2183:18)
+    at IdeSocketClient.onMessageHandler (chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:2160:18)
+    at chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:1955:18
+    at chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:433:45
+    at Array.forEach (<anonymous>)
+    at EventImpl.trigger (chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:433:32)
+    at chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:576:32
+    at chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:433:45", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/_generated_background_page.html (0)
+[3528:3016:0113/182357.143:INFO:CONSOLE(0)] "Error in event handler: Error: Failed to execute 'send' on 'WebSocket': Still in CONNECTING state.
+    at ChromeWebSocketClient.sendMessage (chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:403:24)
+    at IdeSocketClient.send (chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:604:27)
+    at IdeSocketClient.sendEventMethod (chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:2183:18)
+    at IdeSocketClient.onMessageHandler (chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:2160:18)
+    at chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:1955:18
+    at chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:433:45
+    at Array.forEach (<anonymous>)
+    at EventImpl.trigger (chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:433:32)
+    at chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:576:32
+    at chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js:433:45", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/_generated_background_page.html (0)
+[3528:3016:0113/182357.864:INFO:CONSOLE(383)] "WebSocket connection to 'ws://localhost:54690/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (383)
+[3528:3016:0113/182438.200:INFO:CONSOLE(383)] "WebSocket connection to 'ws://localhost:54777/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED", source: chrome-extension://iebjfhlphfmocmgedkgcfogfmnpfghfj/BS.js (383)
+[3528:3016:0113/195002.083:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195002.341:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195002.490:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195002.690:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195002.926:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195002.974:INFO:CONSOLE(1434)] "", source:  (1434)
+[3528:3016:0113/195003.049:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195003.177:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195003.699:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195003.751:INFO:CONSOLE(1434)] "", source:  (1434)
+[3528:3016:0113/195004.239:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195004.646:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195004.670:INFO:CONSOLE(1434)] "", source:  (1434)
+[3528:3016:0113/195004.778:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195004.878:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195004.990:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195005.083:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195005.180:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195005.318:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195005.450:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195005.633:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195005.717:INFO:CONSOLE(1434)] "[object HTMLAnchorElement]", source:  (1434)
+[3528:3016:0113/195011.965:INFO:CONSOLE(37)] "[object Object]", source: https://ap17.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (37)
+[3528:3016:0113/200230.585:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

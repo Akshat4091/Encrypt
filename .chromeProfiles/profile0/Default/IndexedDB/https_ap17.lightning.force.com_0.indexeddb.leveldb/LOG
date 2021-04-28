@@ -1,0 +1,6 @@
+2021/01/13-18:23:42.397 3330 Reusing MANIFEST C:\Users\akshat.jain\Provar\Bug\.chromeProfiles\profile0\Default\IndexedDB\https_ap17.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/13-18:23:42.404 3330 Recovering log #11
+2021/01/13-18:23:42.421 3330 Reusing old log C:\Users\akshat.jain\Provar\Bug\.chromeProfiles\profile0\Default\IndexedDB\https_ap17.lightning.force.com_0.indexeddb.leveldb/000011.log 
+2021/01/13-19:50:14.558 3b58 Level-0 table #16: started
+2021/01/13-19:50:14.750 3b58 Level-0 table #16: 2443942 bytes OK
+2021/01/13-19:50:14.774 3b58 Delete type=0 #11
